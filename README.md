@@ -1,12 +1,14 @@
-# 👋 Hi, I’m Ismail Anegdouil
+# 👋 Hey there, I’m Ismail Anegdouil
 
-🎓 I’m a student passionate about software development, especially in **C#** and **web development**.  
-💻 I’ve worked on many school projects that involve building applications and websites.  
-🌱 Currently learning more about full-stack development and improving my coding skills.  
-🤝 I’m open to collaborating on educational or beginner-friendly tech projects.  
-📫 You can reach me via GitHub or connect with me on other platforms (add links if you have).  
+I'm a student with a growing passion for coding — especially in **C#** and **web development**.  
+At school, I’ve had the chance to build different apps and websites, which helped me learn a lot by doing.  
+
+🌱 Right now, I’m focused on getting better at full-stack development.  
+🤝 Always happy to connect or collaborate on fun and meaningful projects.  
+📫 You can reach me here on GitHub — feel free to say hi!  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I enjoy solving coding challenges and trying out new tech tools!
+⚡ Fun fact: I love experimenting with new tech and finding creative ways to solve problems.
+
 
 <!---
 2425-Anegdouil-Ismail-BSZ/2425-Anegdouil-Ismail-BSZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
